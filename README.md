@@ -5,9 +5,8 @@
 #### 🖊️ Love to think logic
 #### 🎤 Like to learn knowledge
 
-<head style="background-color:#33475b">
     <link rel="FOLLOW" href="https://twitter.com/MdSalauddinMoz1">
-</head>
+
 
 
 ### 🚀 About Me
