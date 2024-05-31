@@ -5,7 +5,10 @@
 #### 🖊️ Love to think logic
 #### 🎤 Like to learn knowledge
 
-<body bgcolor="#800000"> FOLLOW:@MdSalauddinMoz1
+<table style="background-color:#33475b">
+    <link rel="FOLLOW" href="https://twitter.com/MdSalauddinMoz1">
+</table>
+
 
 ### 🚀 About Me
 I am a dedicated Full-Stack Developer specializing in Laravel for backend and HTML, CSS, JavaScript, and Bootstrap for frontend. I create efficient, user-friendly web applications, drawing inspiration from my love of travel and football. I am passionate about learning new technologies and bringing fresh perspectives to my work. Let's collaborate to bring your ideas to life!
