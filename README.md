@@ -2,7 +2,12 @@
 
 ### Hi there 👋, I'm Md. Salauddin Mozumder
 #### 👑 I am Web Developer
+#### 🖊️ Love to think logic
+#### 🎤 Like to learn knowledge
 
+https://twitter.com/MdSalauddinMoz1
+
+### 🚀 About Me
 I am a dedicated Full-Stack Developer specializing in Laravel for backend and HTML, CSS, JavaScript, and Bootstrap for frontend. I create efficient, user-friendly web applications, drawing inspiration from my love of travel and football. I am passionate about learning new technologies and bringing fresh perspectives to my work. Let's collaborate to bring your ideas to life!
 
 ### 👨‍💻 Skills & Experiance:
