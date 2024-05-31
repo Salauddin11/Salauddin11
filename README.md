@@ -5,25 +5,7 @@
 #### 🖊️ Love to think logic
 #### 🎤 Like to learn knowledge
 
- <style>
-            .GFG {
-                background-color: white;
-                border: 2px solid black;
-                color: green;
-                padding: 5px 10px;
-                cursor: pointer;
-            }
-        </style>
-    </head>
-    <body>
-        <!-- Adding link to the button on the onclick event -->
-        <button
-            class="GFG"
-            onclick=
-"window.location.href = 'https://twitter.com/MdSalauddinMoz1';"
-        >
-            Click Here
-        </button>
+<a href="https://twitter.com/MdSalauddinMoz1"><button>FOLLOW</button></a>
 
 
 ### 🚀 About Me
