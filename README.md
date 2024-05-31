@@ -5,7 +5,7 @@
 #### 🖊️ Love to think logic
 #### 🎤 Like to learn knowledge
 
-href="https://twitter.com/MdSalauddinMoz1">FOLLOW</a>
+<a> href="https://twitter.com/MdSalauddinMoz1">FOLLOW</a>
 
 
 ### 🚀 About Me
