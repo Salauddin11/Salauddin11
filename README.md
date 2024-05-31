@@ -5,9 +5,7 @@
 #### 🖊️ Love to think logic
 #### 🎤 Like to learn knowledge
 
-<a href="https://twitter.com/MdSalauddinMoz1"><button style="background-color: blue; color: red; padding: 10px 20px; font-size: 16px; border-radius: 5px;">
-    Click Me
-</button></a>
+<a href="https://twitter.com/shovoalways" rel="nofollow"><img src="https://camo.githubusercontent.com/31102030ecf8077b57a7aa99c017bea3a97b5e71b57f509c7d0e6da7f09d3549/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f73686f766f616c776179733f6c6f676f3d74776974746572267374796c653d666f722d7468652d6261646765" alt="shovoalways" data-canonical-src="https://img.shields.io/twitter/follow/shovoalways?logo=twitter&amp;style=for-the-badge" style="max-width: 100%;"></a>
 
 
 ### 🚀 About Me
