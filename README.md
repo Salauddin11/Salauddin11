@@ -6,7 +6,7 @@
 #### 🎤 Like to learn knowledge
 
 <a href="https://twitter.com/MdSalauddinMoz1" rel="nofollow">
-  <image xmlns="http://www.w3.org/2000/svg" x="9" y="7" width="14" height="14" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMUQ5QkYwIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+VHdpdHRlcjwvdGl0bGU+PHBhdGggZD0iTTIxLjU0MyA3LjEwNGMuMDE1LjIxMS4wMTUuNDIzLjAxNS42MzYgMCA2LjUwNy00Ljk1NCAxNC4wMS0xNC4wMSAxNC4wMXYtLjAwM0ExMy45NCAxMy45NCAwIDAgMSAwIDE5LjUzOWE5Ljg4IDkuODggMCAwIDAgNy4yODctMi4wNDEgNC45MyA0LjkzIDAgMCAxLTQuNi0zLjQyIDQuOTE2IDQuOTE2IDAgMCAwIDIuMjIzLS4wODRBNC45MjYgNC45MjYgMCAwIDEgLjk2IDkuMTY3di0uMDYyYTQuODg3IDQuODg3IDAgMCAwIDIuMjM1LjYxNkE0LjkyOCA0LjkyOCAwIDAgMSAxLjY3IDMuMTQ4IDEzLjk4IDEzLjk4IDAgMCAwIDExLjgyIDguMjkyYTQuOTI5IDQuOTI5IDAgMCAxIDguMzktNC40OSA5Ljg2OCA5Ljg2OCAwIDAgMCAzLjEyOC0xLjE5NiA0Ljk0MSA0Ljk0MSAwIDAgMS0yLjE2NSAyLjcyNEE5LjgyOCA5LjgyOCAwIDAgMCAyNCA0LjU1NWExMC4wMTkgMTAuMDE5IDAgMCAxLTIuNDU3IDIuNTQ5eiIvPjwvc3ZnPg=="/>
+<img src="https://img.shields.io/twitter/follow/salauddin?logo=twitter&style=for-the-badge" alt="Twitter Follow Badge">
 
 </a>
 
