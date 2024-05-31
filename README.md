@@ -27,3 +27,6 @@ I am a dedicated Full-Stack Developer specializing in Laravel for backend and HT
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Salauddin11)](https://github.com/ryo-ma/github-profile-trophy)
 
+📧 For Business Inquiries
+✅ ► saldin13579@gmail.com
+
